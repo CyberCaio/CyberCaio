@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,postman,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,postman,py,vscode)](https://skillicons.dev)
 
 ## 📈 GitHub Stats
 
